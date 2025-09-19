@@ -1,4 +1,4 @@
-# Exercises for GECS course (github)
+# Exercises for GECS course (github) | Session 2
 > [!WARNING]
 > The below commands are intended for people who understand git usage.
 > Please do not run them if you are not really familiar with what is going on.
